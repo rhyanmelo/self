@@ -1,0 +1,6 @@
+{
+    "id_do_servidor":"ID DO SERVIDOR",
+    "status_do_bot":"ID DE UM CANAL (OBRIGATORIO)",
+    "log_removeu_o_bot":"ID DE UM CANAL (OBRIGATORIO)",
+    "log_entrou_no_servidor":"ID DE UM CANAL (OBRIGATORIO)"
+}
